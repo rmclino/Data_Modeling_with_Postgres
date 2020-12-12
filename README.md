@@ -1,3 +1,5 @@
+The README file includes a summary of the project, how to run the Python scripts, and an explanation of the files in the repository. Comments are used effectively and each function has a docstring.
+
 ## Project Name
 Creation, Data Modeling and Data loading of `sparkify` database (Star schema database in Postgres) for Song Play Analysis.
 
